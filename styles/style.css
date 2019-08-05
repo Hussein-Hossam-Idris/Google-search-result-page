@@ -1,0 +1,64 @@
+body {
+    width: inherit;
+    min-height: inherit;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.div-1 {
+    width: 100%;
+
+    padding: 20px 0 0px 0;
+    
+}
+.div-1 p{
+    position: absolute;
+    right: 0;
+    word-spacing: 12px;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    font-size: small;
+    
+}
+.google-image {
+    width: 93px;
+    height: 33px;
+    margin-bottom: -10px;
+    padding-left: 20px;
+}
+.search-bar {
+    position: relative;
+    height: 34px;
+    width: 570px;
+}
+.glass {
+    width: 33px;
+    height: 33px;
+    margin-bottom: -10px;
+}
+.div-2 {
+    width: 100%;
+    font-size: small;
+    border-bottom: 1px silver solid;
+    padding-top: 20px;
+
+}
+.div-3 {
+    width: 570px;
+    margin-left: 120px;
+
+}
+.div-4 {
+    width: 100%;
+    border: 1px silver solid;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+ol li{
+    line-height: 1.375;
+}
+
+.div-5 {
+    
+}
